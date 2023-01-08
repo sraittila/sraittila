@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @sraittila . I am from Finland 🇫🇮 and I live in Stockholm 🇸🇪
-- 👀 I’m interested in technology, beer 🍺 and music. I play drums 🥁
-- 🌱 I’m currently learning Electrical Engineering and Swedish C1.
+- 👋 Hi, I’m @sraittila . 
+- 👀 I’m currently doing a bachelor degree with topic "IoT water monitoring with machine learning"
+- I am also learning C++. 
+
